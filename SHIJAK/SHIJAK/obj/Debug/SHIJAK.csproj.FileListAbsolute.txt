@@ -1,0 +1,11 @@
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\bin\Debug\SHIJAK.exe.config
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\bin\Debug\SHIJAK.exe
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\bin\Debug\SHIJAK.pdb
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.csprojResolveAssemblyReference.cache
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.Form_carga_inicial.resources
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.Properties.Resources.resources
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.csproj.GenerateResource.Cache
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.exe
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.pdb
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.Form_principal.resources
+C:\Users\Joaquin\Desktop\SHIJAK 6.0\SHIJAK\SHIJAK\obj\Debug\SHIJAK.Form_agregar_usuario.resources
